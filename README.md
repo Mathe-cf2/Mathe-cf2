@@ -9,7 +9,7 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=550&lines=Future+Python+Developer;Cybersecurity+%26+AI+Enthusiast&repeat=true" /> </div> ```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=550&lines=Future+Python+Developer;Cybersecurity+%26+AI+Enthusiast&repeat=true" /> </div> 
 ### *"Tudo posso naquele que me fortalece."* — Filipenses 4:13
 
 </div>
