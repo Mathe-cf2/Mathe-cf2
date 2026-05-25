@@ -84,3 +84,30 @@ Estudante apaixonado por tecnologia, inteligência artificial e programação. A
 Obrigado por visitar meu perfil!
 
 </div>
+
+<table>
+<tr>
+
+<td width="40%">
+
+<img src="SUA_FOTO_AQUI" width="250px"/>
+
+</td>
+
+<td width="60%">
+
+<h1>Matheus</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00F7FF&vCenter=true&width=400&lines=Future+Python+Developer;Cybersecurity+%26+AI+Enthusiast" />
+
+<br><br>
+
+💻 Estudante de Python  
+🔐 Interessado em Cybersecurity  
+🤖 Apaixonado por Inteligência Artificial  
+🚀 Construindo meu futuro na tecnologia  
+
+</td>
+
+</tr>
+</table>
