@@ -34,11 +34,11 @@ Estudante apaixonado por tecnologia, inteligência artificial e programação. A
 
 ## 🚀 Sobre mim
 
-- 🎓 **Estudante** do Ensino Médio | Focado no ENEM
-- 🐍 **Aprendendo Python** — minha linguagem principal no momento
-- 💡 Interessado em **Análise e Desenvolvimento de Sistemas** e **Segurança da Informação**
-- 🤖 Apaixonado por **Inteligência Artificial** e como ela transforma o mundo
-- 💪 Fora do teclado: academia e superação diária
+* 🎓 **Estudante** do Ensino Médio | Focado no ENEM
+* 🐍 **Aprendendo Python** — minha linguagem principal no momento
+* 💡 Interessado em **Análise e Desenvolvimento de Sistemas** e **Segurança da Informação**
+* 🤖 Apaixonado por **Inteligência Artificial** e como ela transforma o mundo
+* 💪 Fora do teclado: academia e superação diária
 
 ---
 
@@ -58,10 +58,10 @@ Estudante apaixonado por tecnologia, inteligência artificial e programação. A
 
 ## 🎯 Objetivos de 2026
 
-- [ ] Finalizar o curso de Python (3 módulos)
-- [ ] Criar projetos autorais no GitHub
-- [ ] Passar no ENEM com uma boa nota
-- [ ] Ingressar na faculdade de TI
+* [ ] Finalizar o curso de Python (3 módulos)
+* [ ] Criar projetos autorais no GitHub
+* [ ] Passar no ENEM com uma boa nota
+* [ ] Ingressar na faculdade de TI
 
 ---
 
@@ -84,30 +84,3 @@ Estudante apaixonado por tecnologia, inteligência artificial e programação. A
 Obrigado por visitar meu perfil!
 
 </div>
-
-<table>
-<tr>
-
-<td width="40%">
-
-<img src="SUA_FOTO_AQUI" width="250px"/>
-
-</td>
-
-<td width="60%">
-
-<h1>Matheus</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00F7FF&vCenter=true&width=400&lines=Future+Python+Developer;Cybersecurity+%26+AI+Enthusiast" />
-
-<br><br>
-
-💻 Estudante de Python  
-🔐 Interessado em Cybersecurity  
-🤖 Apaixonado por Inteligência Artificial  
-🚀 Construindo meu futuro na tecnologia  
-
-</td>
-
-</tr>
-</table>
