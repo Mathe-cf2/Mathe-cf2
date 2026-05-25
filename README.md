@@ -1,13 +1,11 @@
 <div align="center">
 
-  ```
-███╗   ███╗ █████╗ ████████╗██╗  ██╗
-████╗ ████║██╔══██╗╚══██╔══╝██║  ██║
-██╔████╔██║███████║   ██║   ███████║
-██║╚██╔╝██║██╔══██║   ██║   ██╔══██║
-██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║
-╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
-```
+███╗   ███╗ █████╗ ████████╗██╗  ██╗  
+████╗ ████║██╔══██╗╚══██╔══╝██║  ██║  
+██╔████╔██║███████║   ██║   ███████║  
+██║╚██╔╝██║██╔══██║   ██║   ██╔══██║  
+██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║  
+╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝  
 
 ### *"Tudo posso naquele que me fortalece."* — Filipenses 4:13
 
@@ -43,12 +41,15 @@ Estudante apaixonado por tecnologia, inteligência artificial e programação. A
 
 ## 🛠️ Tecnologias & Ferramentas
 
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
----
+
+</div>
 
 ---
 
@@ -67,7 +68,7 @@ Estudante apaixonado por tecnologia, inteligência artificial e programação. A
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mathe.cf)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
+[![Hotmail](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:mathe.cf@hotmail.com)
 
 </div>
 
@@ -75,7 +76,7 @@ Estudante apaixonado por tecnologia, inteligência artificial e programação. A
 
 <div align="center">
 
-*"A jornada de mil milhas começa com um único passo — e o meu primeiro passo foi aprender Python."*
+*"A jornada de mil milhas começa com um único passo — e o meu primeiro passo foi escolher construir meu futuro."*
 
 ⭐ Obrigado por visitar meu perfil!
 
