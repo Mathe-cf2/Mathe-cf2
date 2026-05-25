@@ -81,6 +81,6 @@ Estudante apaixonado por tecnologia, inteligência artificial e programação. A
 
 *"A jornada de mil milhas começa com um único passo — e o meu primeiro passo foi escolher construir meu futuro."*
 
-Obrigado por visitar meu perfil!
+Obrigado por visitar meu perfil!😁
 
 </div>
