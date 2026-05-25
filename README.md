@@ -8,7 +8,8 @@
 ██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║
 ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
 ```
-
+> Future Python Developer
+> Cybersecurity & AI Enthusiast
 ### *"Tudo posso naquele que me fortalece."* — Filipenses 4:13
 
 </div>
